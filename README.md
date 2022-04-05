@@ -1,1 +1,10 @@
-# Nodelist-Bridgerton
+id,label
+Anthony,AnthonyBridgerton
+Kate,KateSharma
+Edwina,EdwinaSharma
+Danbury,LadyDanbury
+Violet,VioletBridgerton
+Eloise,EloiseBridgerton
+Penelope,PenelopeFeatherington
+Philippa,PhilippaFeatherington
+Prudence,PrudenceFeatherington
